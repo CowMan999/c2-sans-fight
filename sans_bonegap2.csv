@@ -43,10 +43,10 @@
 0,MUL,XR,$X,$SpeedR,,
 0,ADD,XR,320,$XR,,
 0,MUL,SpeedR,$SpeedR,30,,
-0.3,BoneV,$XL,257,$HeightT,0,300
-0,BoneV,$XL,$YB,$HeightB,0,256
-0.4,BoneV,$XR,257,$HeightT,2,278
-0,BoneV,$XR,$YB,$HeightB,2,432
+0.3,BoneV,$XL,257,$HeightT,0,200
+0,BoneV,$XL,$YB,$HeightB,0,200
+0.4,BoneV,$XR,257,$HeightT,2,200
+0,BoneV,$XR,$YB,$HeightB,2,200
 0,MUL,Jump,$Choice,2,,
 0,ADD,Jump,$Jump,1,,
 0,JMPREL,$Jump,,,,
