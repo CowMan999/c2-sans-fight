@@ -1,1 +1,1 @@
-cowman9999.github.io/c2-sans-fight-2.1/
+ https://cowman999.github.io/c2-sans-fight-2.1/
