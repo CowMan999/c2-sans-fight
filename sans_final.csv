@@ -26,5 +26,5 @@
 0,SET,EndY,440,,,,,,
 0,ANGLE,Ang,$EndX,$EndY,$HeartX,$HeartY,,,
 0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,0.46666,0.03333
-0.07,JMPNZ,6,$Loop,,,,,,
+0.2,JMPNZ,6,$Loop,,,,,,
 16,EndAttack,,,,,,,,
