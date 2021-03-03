@@ -1,1 +1,1 @@
-cowman9999.github.io/c2-sans-battle-2.1/
+cowman9999.github.io/c2-sans-fight-2.1/
