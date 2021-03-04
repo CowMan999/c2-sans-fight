@@ -22,5 +22,6 @@
 0,JMPREL,1,,,,
 0.26666,SansSlam,$Direction,,,,
 0.2,BoneStab,$Direction,29,0.07,0,
-0.05,JMPABS,6,,,,
+0.1,JMPABS,6,,,,
+0,GasterBlaster,1,0,0,189,176,45,0.333,0.26666,,
 0,EndAttack,,,,,
