@@ -21,7 +21,7 @@
 0,SansBody,HandUp,,,,
 0,JMPREL,1,,,,
 0.26666,SansSlam,$Direction,,,,
-0.25,BoneStab,$Direction,29,0.07,0,
+0.4,BoneStab,$Direction,29,0.07,0,
 0.35,JMPABS,6,,,,
 
 0,EndAttack,,,,,
