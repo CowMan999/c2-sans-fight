@@ -1,5 +1,9 @@
 0,RND,Ang,360,,,,,,
-0.3,GasterBlaster,1,400,400,450,450,$Ang,0.66666,0.03333
+0,x,Ang,800,,,,,,
+0,y,Ang,800,,,,,,
+0,xend,Ang,800,,,,,,
+0,yend,Ang,800,,,,,,
+0.3,GasterBlaster,1,$x,$y,$xend,$yend,$Ang,0.66666,0.03333
 0,RND,Ang,360,,,,,,
 0.3,GasterBlaster,1,400,400,450,450,$Ang,0.66666,0.03333
 0,RND,Ang,360,,,,,,
